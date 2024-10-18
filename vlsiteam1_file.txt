@@ -1,2 +1,5 @@
 Bear2
 I am bear 2 I like to eat all fish
+fish1
+fish2
+fish3
